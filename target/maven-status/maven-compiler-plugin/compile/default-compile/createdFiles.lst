@@ -1,3 +1,5 @@
+BussinesModel\Servlets\Models\Client.class
 com\mycompany\pruebaservlets\JakartaRestConfiguration.class
 com\mycompany\pruebaservlets\resources\JakartaEE10Resource.class
+BussinesModel\Servlets\ClientServlet.class
 com\mycompany\pruebaservlets\HolaMundo.class
